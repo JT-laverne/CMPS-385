@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prob #2 Music Playlist Manager", "Prob #2 Music Playlist Manager.vcxproj", "{5C302DE4-9A06-4BD8-848E-F0FCA8B88D6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C302DE4-9A06-4BD8-848E-F0FCA8B88D6C}.Debug|x64.ActiveCfg = Debug|x64
+		{5C302DE4-9A06-4BD8-848E-F0FCA8B88D6C}.Debug|x64.Build.0 = Debug|x64
+		{5C302DE4-9A06-4BD8-848E-F0FCA8B88D6C}.Debug|x86.ActiveCfg = Debug|Win32
+		{5C302DE4-9A06-4BD8-848E-F0FCA8B88D6C}.Debug|x86.Build.0 = Debug|Win32
+		{5C302DE4-9A06-4BD8-848E-F0FCA8B88D6C}.Release|x64.ActiveCfg = Release|x64
+		{5C302DE4-9A06-4BD8-848E-F0FCA8B88D6C}.Release|x64.Build.0 = Release|x64
+		{5C302DE4-9A06-4BD8-848E-F0FCA8B88D6C}.Release|x86.ActiveCfg = Release|Win32
+		{5C302DE4-9A06-4BD8-848E-F0FCA8B88D6C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9FA741B-710F-4A59-AFF9-ACB5146EB4DB}
+	EndGlobalSection
+EndGlobal
